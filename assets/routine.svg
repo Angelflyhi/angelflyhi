@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" fill="none">
+  <!-- Background -->
+  <rect x="0" y="0" width="400" height="200" rx="10" fill="#fdfbf7" stroke="#ffd1dc" stroke-width="2"/>
+  
+  <!-- Title -->
+  <text x="120" y="30" font-family="monospace" font-size="14" fill="#d4a373" font-weight="bold" letter-spacing="1">daily routine</text>
+  
+  <!-- Vertical Line -->
+  <line x1="80" y1="50" x2="80" y2="150" stroke="#f5ebe0" stroke-width="3"/>
+  
+  <!-- Event 1 -->
+  <circle cx="80" cy="65" r="6" fill="#ffd1dc" stroke="#fff" stroke-width="2"/>
+  <text x="100" y="70" font-family="monospace" font-size="13" fill="#8b5a2b" font-weight="bold">4:00 AM:</text>
+  <text x="170" y="70" font-family="monospace" font-size="13" fill="#9e8a78">Wake up.</text>
+  
+  <!-- Event 2 -->
+  <circle cx="80" cy="105" r="6" fill="#f4e4e9" stroke="#fff" stroke-width="2"/>
+  <text x="100" y="110" font-family="monospace" font-size="13" fill="#8b5a2b" font-weight="bold">4:05 AM:</text>
+  <text x="170" y="110" font-family="monospace" font-size="13" fill="#9e8a78">Stare into the void.</text>
+  
+  <!-- Event 3 -->
+  <circle cx="80" cy="145" r="6" fill="#e6ccb2" stroke="#fff" stroke-width="2"/>
+  <text x="100" y="150" font-family="monospace" font-size="13" fill="#8b5a2b" font-weight="bold">4:10 AM:</text>
+  <text x="170" y="150" font-family="monospace" font-size="13" fill="#9e8a78">Redesign the void.</text>
+  
+  <!-- Very Small Text (Requirement 50) -->
+  <text x="80" y="185" font-family="monospace" font-size="8" fill="#c4b5a3">Jk i dont wakeup at 4 am thats actually when i sleep</text>
+  
+  <!-- Decor -->
+  <path d="M 330 30 C 330 30 340 10 360 20 C 380 30 360 60 340 70 C 320 80 330 50 330 30 Z" fill="#ffd1dc" opacity="0.4"/>
+  <circle cx="350" cy="150" r="15" fill="#f4e4e9" opacity="0.6"/>
+  <circle cx="360" cy="130" r="8" fill="#e6ccb2" opacity="0.5"/>
+</svg>
